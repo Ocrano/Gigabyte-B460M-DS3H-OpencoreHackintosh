@@ -1,5 +1,7 @@
 # Gigabyte-B460M-DS3H-OpencoreHackintosh
 
+![opencore](https://www.podfeet.com/blog/wp-content/uploads/2022/02/OpenCore-Logo-bg.png)
+
 My Build :
 - OS: macOS Monterey 12.6
 - CPU: Intel Core i3-10105
@@ -30,4 +32,4 @@ What's not working / Known bugs
 
 macOS Screenshot
 
-![monterey]([https://user-images.githubusercontent.com/29559559/138925063-5562a352-800e-4b58-b499-8778b3aad1dc.png](https://pbs.twimg.com/media/Fdh6Z9RWIAEqUcs?format=jpg&name=large))
+![monterey](https://i.ibb.co/Ns19JsF/Fdh6-Z9-RWIAEq-Ucs-1.jpg)
